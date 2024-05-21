@@ -1,4 +1,4 @@
-module protos
+module github.com/Geriler/protos
 
 go 1.21
 
